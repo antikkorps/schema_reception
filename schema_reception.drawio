@@ -65,7 +65,9 @@
           <mxGeometry y="160" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cr-table" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="200" height="140" as="geometry" />
+          <mxGeometry x="170" y="400" width="200" height="140" as="geometry">
+            <mxRectangle x="170" y="400" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cr-title" value="COMPTE_RENDU_OP" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;" parent="cr-table" vertex="1">
           <mxGeometry y="30" width="200" height="26" as="geometry" />
