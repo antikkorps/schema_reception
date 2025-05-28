@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Schema-Interventions-DMI" id="schema-interventions-dmi">
-    <mxGraphModel dx="1001" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,9 @@
         </mxCell>
         <mxCell id="OEkjtnCllaKrt0Ornh0y-5" value="Modele/Controller INTER_DMI ===&amp;gt; Base logiBOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="700" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHPfJq9yUPQbgnfK_fDg-1" value="On a déjà mais on aura besoin pour les DMI de ça" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
