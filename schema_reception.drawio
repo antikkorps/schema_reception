@@ -156,13 +156,16 @@
           <mxGeometry x="970" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OEkjtnCllaKrt0Ornh0y-1" value="Modele/Controller patients ===&amp;gt; Base séparée ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="640" width="280" height="30" as="geometry" />
+          <mxGeometry x="25" y="640" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEkjtnCllaKrt0Ornh0y-2" value="Modele/Controller interventions ===&amp;gt; Base logiBOP puiqu&#39;on ne traite que l&#39;id du patient" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="660" width="490" height="30" as="geometry" />
+          <mxGeometry x="25" y="660" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEkjtnCllaKrt0Ornh0y-4" value="Modele/Controller DMI ===&amp;gt; Base logiBOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="680" width="250" height="30" as="geometry" />
+          <mxGeometry x="25" y="680" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEkjtnCllaKrt0Ornh0y-5" value="Modele/Controller INTER_DMI ===&amp;gt; Base logiBOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="700" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
