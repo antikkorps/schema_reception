@@ -65,7 +65,7 @@
           <mxGeometry y="160" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cr-table" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="200" height="140" as="geometry">
+          <mxGeometry x="170" y="400" width="200" height="166" as="geometry">
             <mxRectangle x="170" y="400" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -81,8 +81,11 @@
         <mxCell id="cr-fk2" value="CR_PATIENT_ID (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FF6600;" parent="cr-table" vertex="1">
           <mxGeometry y="108" width="200" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="OEkjtnCllaKrt0Ornh0y-6" value="CR_IDMI_ID (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FF6600;" vertex="1" parent="cr-table">
+          <mxGeometry y="134" width="200" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="cr-date" value="CR_DATE_CREATION" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cr-table" vertex="1">
-          <mxGeometry y="134" width="200" height="6" as="geometry" />
+          <mxGeometry y="160" width="200" height="6" as="geometry" />
         </mxCell>
         <mxCell id="inter-dmi-table" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="620" y="430" width="200" height="186" as="geometry">
