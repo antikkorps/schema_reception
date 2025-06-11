@@ -71,7 +71,7 @@
           <mxGeometry y="200" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cr-table" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="400" width="200" height="156" as="geometry">
+          <mxGeometry x="65" y="400" width="200" height="156" as="geometry">
             <mxRectangle x="170" y="400" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rel-inter-cr-label" value="1,N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="265" y="460" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rel-inter-interdmi" value="" style="endArrow=ERmany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="intervention-pk" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
