@@ -240,7 +240,7 @@
           <mxGeometry y="82" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-23" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1252" width="200" height="188" as="geometry">
+          <mxGeometry x="460" y="1252" width="200" height="246" as="geometry">
             <mxRectangle x="170" y="400" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -254,19 +254,19 @@
           <mxGeometry y="82" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-27" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;COMLI_STATUS&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="BhDg1p6abxs4e2NEbuwq-23">
-          <mxGeometry y="108" width="200" height="16" as="geometry" />
+          <mxGeometry y="108" width="200" height="24" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-28" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;COMLI_CODE_FOURNI(FK)&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="BhDg1p6abxs4e2NEbuwq-23">
-          <mxGeometry y="124" width="200" height="16" as="geometry" />
+          <mxGeometry y="132" width="200" height="32" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;&lt;b&gt;COMLI_ART_ID (FK)&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="BhDg1p6abxs4e2NEbuwq-23">
-          <mxGeometry y="140" width="200" height="16" as="geometry" />
+          <mxGeometry y="164" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-47" value="COMLI_QTY_ATT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="BhDg1p6abxs4e2NEbuwq-23">
-          <mxGeometry y="156" width="200" height="16" as="geometry" />
+          <mxGeometry y="192" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-46" value="COMLI_QTY_RECEP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="BhDg1p6abxs4e2NEbuwq-23">
-          <mxGeometry y="172" width="200" height="16" as="geometry" />
+          <mxGeometry y="220" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BhDg1p6abxs4e2NEbuwq-39" value="1,N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="1330" width="40" height="20" as="geometry" />
@@ -298,12 +298,12 @@
         <mxCell id="BhDg1p6abxs4e2NEbuwq-45" value="&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Google Sans Text&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;achat = a, achat = a, depot = d , prêt= p= d , prêt= p&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="1080" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BhDg1p6abxs4e2NEbuwq-48" value="" style="endArrow=ERmany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BhDg1p6abxs4e2NEbuwq-47" target="BhDg1p6abxs4e2NEbuwq-10">
+        <mxCell id="BhDg1p6abxs4e2NEbuwq-48" value="" style="endArrow=ERmany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BhDg1p6abxs4e2NEbuwq-29" target="BhDg1p6abxs4e2NEbuwq-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="990" as="sourcePoint" />
             <mxPoint x="1170" y="1321" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="1416" />
+              <mxPoint x="740" y="1430" />
               <mxPoint x="740" y="1600" />
               <mxPoint x="1190" y="1600" />
               <mxPoint x="1190" y="1321" />
